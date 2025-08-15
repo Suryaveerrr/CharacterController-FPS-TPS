@@ -8,13 +8,11 @@ This controller is designed to be modular and easy to extend, with a focus on sm
 
 Movement: Standard walk, sprint, and jump capabilities.
 
-Crouching: Dynamic crouching with smooth height transitions.
-
-Obstacle Detection: Prevents the player from standing up while under an obstacle.
+Crouching: Dynamic crouching with smooth height transitions..
 
 Stable Ground Check: Uses a robust SphereCast to reliably detect ground, preventing flickering on slopes and uneven surfaces.
 
-Animator Ready: Includes all necessary parameters to easily hook up animations for idle, walk, run, jump, and crouch states.
+Animator Ready: Includes all necessary parameters to easily hook up animations for idle, walk, run, jump states.
 
 Third-Person (TPS) Controller
 Camera-Relative Movement: The player character smoothly rotates and moves relative to the camera's direction.
